@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "No.4",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-19T08:01:35.705813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel Dream (No. 4)",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": true,
+      "path": "select/01_Angel_Dream_(No._4)_Tom_Petty_and_the_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Dream (No. 4)",
+      "artist": "Tom Petty & The Heartbreakers",
+      "has_synced": true,
+      "path": "select/02_Angel_Dream_(No._4)_Tom_Petty_&_The_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Dream (No. 4)",
+      "artist": "Tom Petty & The Heartbreakers",
+      "has_synced": true,
+      "path": "select/03_Angel_Dream_(No._4)_Tom_Petty_&_The_Heartbreakers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No.4",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_No.4_Chevon.txt"
+    }
+  ]
+}
